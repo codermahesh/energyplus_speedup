@@ -9,9 +9,9 @@ more info: http://apps1.eere.energy.gov/buildings/energyplus/
 
 Why is Framework?
 Simulation process executes over longer time span, framework
-manages to devide this execute this execution over multiple nodes and
+manages to divide this execute this execution over multiple nodes and
 aggregates result.
-Framework mimincs hadoop task management infrastructure and incorporates work aroud distributed systems
+Framework mimics hadoop task management infrastructure and incorporates work around distributed systems
 
 For more information,
 visit  IIIT BSRC
